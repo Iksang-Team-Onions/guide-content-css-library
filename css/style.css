@@ -52,19 +52,11 @@ h3 {
 
 .page-title {
     /* 타이포 */
-    font-size: 2.5rem;
+    font-size: 32px !important;
     font-weight: 700;
     /* 간격 */
     margin-top: 0;
     margin-bottom: 0.75em;
-}
-header h1 {
-    /* 타이포 */
-    font-size: 32px;
-    font-weight: 'bold';
-    color: rgb(85, 85, 85);
-    /* 간격 */
-    padding: var(--layout-padding-screen);
 }
 
 h1 {
